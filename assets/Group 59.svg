@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="92px" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 59</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="4_问答_3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-628.000000, -1202.000000)">
+        <g id="Group-59" transform="translate(628.000000, 1202.000000)">
+            <path d="M46,0 C71.388,0 92,20.612 92,46 C92,71.3881 71.388,92 46,92 C20.612,92 0,71.3881 0,46 C0,20.612 20.612,0 46,0 Z" id="Combined-Shape" fill="#10AEFF"></path>
+            <text id="Label-Copy-6" font-family="PingFangHK-Regular, PingFang HK" font-size="30" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                <tspan x="16" y="62">提问</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
